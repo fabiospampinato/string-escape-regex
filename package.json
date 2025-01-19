@@ -3,7 +3,7 @@
   "repository": "github:fabiospampinato/string-escape-regex",
   "description": "A tiny function for escaping a string to be used as the source in a regex.",
   "license": "MIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "dist/index.js",
   "exports": "./dist/index.js",
